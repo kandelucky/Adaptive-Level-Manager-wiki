@@ -9,7 +9,10 @@
 **Adaptive Level Manager** allows you to easily manage the level system in your Unity project. This system lets you define when, where, and how levels are unlocked or locked, what criteria players must meet, and how their progress is evaluated. You can also add unique parameters to extend level data with custom settings.
 
 ### 🎥 Video Tutorial:
-[**Watch here**](https://github.com/kandelucky/Adaptive-Level-Manager-wiki/wiki/Home/google.com)
+[**Watch here**](https://github.com/kandelucky/Adaptive-Level-Manager-wiki/wiki/Home/)
+
+### 📖 Documentation:
+[**Read here**](https://github.com/kandelucky/Adaptive-Level-Manager-wiki/wiki/About)
 
 ---
 
